@@ -1,0 +1,1 @@
+import{g as t,j as e,f as r,q as o}from"./common-bec3f312.js";const a='{"title":"📅 归档","frontmatter":{"page":true,"title":"📅 归档","describe":"归档"},"relativePath":"more/docs.md","lastUpdated":1645349224267.3772}';var s={};s.render=function(a,s,n,c,d,i){const l=o("Docs");return r(),t("div",null,[e(l)])};export default s;export{a as __pageData};

@@ -1,0 +1,1 @@
+import{g as t,j as e,f as r,q as o}from"./common-bec3f312.js";const a='{"title":"💡 项目","frontmatter":{"page":true,"title":"💡 项目","describe":"项目"},"relativePath":"more/projects.md","lastUpdated":1645422650937.3977}';var s={};s.render=function(a,s,n,c,d,i){const l=o("Project");return r(),t("div",null,[e(l)])};export default s;export{a as __pageData};

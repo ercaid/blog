@@ -1,0 +1,1 @@
+import{g as e,f as t}from"./common-bec3f312.js";const r='{"title":"Home","frontmatter":{"page":true,"home":true,"title":"首页","describe":"首页"},"relativePath":"index.md","lastUpdated":1645349221983.224}';var o={};o.render=function(r,o,a,d,i,m){return t(),e("div")};export default o;export{r as __pageData};
